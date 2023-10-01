@@ -1,0 +1,267 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1125px;
+	 height: 2436px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: -2px; 
+	 top: 579px; 
+	 position: absolute; 
+	 width: 1129px;
+	 height: 1861px;
+	 z-index:1;
+} 
+
+ #Logo 
+{ 
+	 left: 284px; 
+	 top: 166px; 
+	 position: absolute; 
+	 width: 557px;
+	 height: 436px;
+	 z-index:2;
+} 
+
+ #Profile 
+{ 
+	 left: 381px; 
+	 top: 646px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 350px;
+	 z-index:3;
+} 
+
+ #CAROLINEKAMYA 
+{ 
+	 left: 173px; 
+	 top: 1041px; 
+	 position: absolute; 
+	 width: 779px;
+	 height: 68px;
+	 z-index:4;
+} 
+
+ #Founder 
+{ 
+	 left: 462px; 
+	 top: 1127px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 38px;
+	 z-index:5;
+} 
+
+ #bio 
+{ 
+	 left: 194px; 
+	 top: 1239px; 
+	 position: absolute; 
+	 width: 741px;
+	 height: 120px;
+	 z-index:6;
+} 
+
+ #ugandaFlag 
+{ 
+	 left: 860px; 
+	 top: 1550px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 34px;
+	 z-index:7;
+} 
+
+ #netherlands 
+{ 
+	 left: 860px; 
+	 top: 1453px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 33px;
+	 z-index:8;
+} 
+
+ #WhatsappBublic 
+{ 
+	 left: 778px; 
+	 top: 1438px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:9;
+} 
+
+ #Call 
+{ 
+	 left: 286px; 
+	 top: 1443px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 52px;
+	 z-index:10;
+} 
+
+ #CallIcon 
+{ 
+	 left: 197px; 
+	 top: 1438px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 62px;
+	 z-index:11;
+} 
+
+ #Mobile 
+{ 
+	 left: 285px; 
+	 top: 1541px; 
+	 position: absolute; 
+	 width: 464px;
+	 height: 52px;
+	 z-index:12;
+} 
+
+ #WhatsappPrivart 
+{ 
+	 left: 778px; 
+	 top: 1536px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:13;
+} 
+
+ #MobileCall 
+{ 
+	 left: 197px; 
+	 top: 1536px; 
+	 position: absolute; 
+	 width: 62px;
+	 height: 62px;
+	 z-index:14;
+} 
+
+ #Email 
+{ 
+	 left: 285px; 
+	 top: 1643px; 
+	 position: absolute; 
+	 width: 544px;
+	 height: 44px;
+	 z-index:15;
+} 
+
+ #EmsilIcon 
+{ 
+	 left: 197px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 63px;
+	 z-index:16;
+} 
+
+ #websiteLink 
+{ 
+	 left: 282px; 
+	 top: 1752px; 
+	 position: absolute; 
+	 width: 437px;
+	 height: 36px;
+	 z-index:17;
+} 
+
+ #webIcon 
+{ 
+	 left: 196px; 
+	 top: 1734px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 62px;
+	 z-index:18;
+} 
+
+ #calendly 
+{ 
+	 left: 858px; 
+	 top: 2184px; 
+	 position: absolute; 
+	 width: 111px;
+	 height: 111px;
+	 z-index:19;
+} 
+
+ #YouTube 
+{ 
+	 left: 682px; 
+	 top: 2182px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 114px;
+	 z-index:20;
+} 
+
+ #Facebook 
+{ 
+	 left: 507px; 
+	 top: 2183px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:21;
+} 
+
+ #Instagram 
+{ 
+	 left: 332px; 
+	 top: 2183px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:22;
+} 
+
+ #Download 
+{ 
+	 left: 156px; 
+	 top: 2183px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 113px;
+	 z-index:23;
+} 
+
+ #LinkedIn 
+{ 
+	 left: 402px; 
+	 top: 1975px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 132px;
+	 z-index:24;
+} 
+
+ #LinkedInBusiness 
+{ 
+	 left: 597px; 
+	 top: 1976px; 
+	 position: absolute; 
+	 width: 145px;
+	 height: 130px;
+	 z-index:25;
+} 
